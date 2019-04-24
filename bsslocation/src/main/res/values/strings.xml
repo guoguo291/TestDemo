@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BSSLocation</string>
+    <string name="str_get_lbs_info">获取基站信息</string>
+    <string name="str_get_wifi_info">获取WIFI信息</string>
+    <string name="str_lbs_info">基站信息</string>
+    <string name="str_wifi_info">WIFI信息</string>
+
+
+</resources>

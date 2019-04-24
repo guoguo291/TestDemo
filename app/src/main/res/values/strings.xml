@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">语音合成Demo</string>
+    <string name="speech">播放</string>
+    <string name="sentence">请输入播放信息</string>
+</resources>
